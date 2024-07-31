@@ -1,0 +1,6 @@
+rent : 6000
+groceries : 2000
+gym : 1000
+dineout : 3000
+fun : 2300
+transportation : 2700

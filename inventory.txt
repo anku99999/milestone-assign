@@ -1,0 +1,8 @@
+item_name : suspension      total_item : 400      item_used : 220        item_remaining : 180
+item_name : gear            total_item : 1000     item_used : 280        item_remaining : 720
+item_name : brake_shoe      total_item : 2000     item_used : 1230       item_remaining : 770
+item_name : wheels          total_item : 200      item_used : 190        item_remaining : 10
+item_name : nut             total_item : 10000    item_used : 7000       item_remaining : 13000
+item_name : bolt            total_item : 10000    item_used : 7000       item_remaining : 3000
+item_name : steering_wheel  total_item : 120      item_used : 80         item_remaining : 40
+item_name : sensor          total_item : 20000    item_used : 12000      item_remaining : 8000
